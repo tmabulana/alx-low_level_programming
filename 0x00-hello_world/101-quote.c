@@ -4,7 +4,6 @@
  * main - must print a line
  *
  * Return: always 1
- *
  */
 int main(void)
 {
