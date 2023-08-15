@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-#include <stdio.h>
+#include<stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - main function this is is
+ * main - main functiion this is
  *
  * Return: always 0
  */
