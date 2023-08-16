@@ -32,7 +32,7 @@ if (fib1_half2 + fib2_half2 > 999999999)
 half1 += 1;
 half2 %= 10000000000;
 }
-printif("%lu%lu", half1, half2);
+printf("%lu%lu", half1, half2);
 if (count != 98)
 printf(", ");
 fib1_half1 = fib2_half1;
