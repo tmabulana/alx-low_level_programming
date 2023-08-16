@@ -1,8 +1,8 @@
-#include "main.c"
+#include "main.h"
 #include <stdio.h>
 /**
- * time_table - print the time accurately
- * Return: numbers
+ * time_table - print the 10 times table, starting with 0
+ * Return: empty output
  */
 void times_table(void)
 {
