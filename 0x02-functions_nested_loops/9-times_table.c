@@ -16,11 +16,10 @@ if (j == 0)
 printf("%d, ", result);
 else
 {
-printf("%2d, ", result);
+printf("%2d", result);
 if (j != 9)
 printf(", ");
 }
-printf("%2d, ", result);
 }
 printf("\n");
 }
