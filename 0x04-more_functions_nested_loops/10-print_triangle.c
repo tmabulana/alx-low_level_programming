@@ -5,7 +5,7 @@
 * @size: this has to do with the size of the triangle(s)
 * Return: always 0
 */
-void print_triangle(int size);
+void print_triangle(int size)
 {
 int a, b, c;
 if (size <= 0)
