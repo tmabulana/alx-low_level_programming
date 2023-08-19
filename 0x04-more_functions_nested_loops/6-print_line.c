@@ -4,7 +4,7 @@
  * @n: the number will be printed numerous times
  * Return: void
  */
-void print_line(int n);
+void print_line(int n)
 {
 int n;
 if (n <= 0)
