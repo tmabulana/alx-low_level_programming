@@ -1,15 +1,16 @@
 #include <stdio.h>
+#include <stdio.h>
 #include <time.h>
 /**
  * main - has to generate a random valid password for the
  * program 101-crackme at this point
- * Return: 0
+ * Return: 0 always
  */
 int main(void)
 {
 char password[84];
 int index = 0, sum = 0, diff_half1, diff_half2;
-srand(time(NULL));
+srand(time(0));
 while (sum < 2772)
 {
 password[index] = 33 + rand() % 94;
