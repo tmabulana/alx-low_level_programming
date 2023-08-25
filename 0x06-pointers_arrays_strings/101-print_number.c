@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_number - numbers are to be printed through char
  * @n: parameters are to be printed as integer
