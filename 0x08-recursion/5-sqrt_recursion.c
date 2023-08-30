@@ -2,8 +2,8 @@
 /**
  * sqrt_a - will return the square root of
  * a number
- * @n: input number
- * @c: the iterator
+ * @a: input number
+ * @b: the iterator
  * Return: the square root of -1
  */
 int sqrt_a(int a, int b)
