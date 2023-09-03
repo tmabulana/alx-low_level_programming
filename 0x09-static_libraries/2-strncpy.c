@@ -1,6 +1,7 @@
 #include "main.h"
+#include <string.h>
 /**
- * __strncpy - strings are to be copied
+ * _strncpy - strings are to be copied
  * @dest: string destination
  * @src: string source
  * @n: the number of bytes that are to be copied
