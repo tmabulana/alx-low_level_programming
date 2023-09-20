@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "variadic_functions.h"
 /**
  * sum_them_all - will pass all the parameters passed to the function
