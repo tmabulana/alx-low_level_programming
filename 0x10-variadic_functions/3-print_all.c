@@ -33,6 +33,7 @@ str = va_arg(spc, char *);
 if (str == NULL)
 str = "(nil)";
 printf("%s", str);
+check_stat = 0;
 break;
 default:
 check_stat = 1;
