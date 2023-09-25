@@ -7,6 +7,10 @@
  * @owner: the ownwer of the dog
  * Description: first struct with ALX
  */
+/**
+ * dog_t - the new name for struct dog
+ */
+typedef struct dog dog_t;
 struct dog
 {
 char *name;
