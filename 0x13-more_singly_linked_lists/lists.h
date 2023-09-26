@@ -1,7 +1,7 @@
 #ifndef LISTS_H
 #define LISTS_H
 /**
- * struct listint_t - this is a self referencial struct for
+ * struct listint_s - this is a self referencial struct for
  *  creating nodes of a singly linked list
  *  @n: the integer data
  *  @next: the self referencial pointer
