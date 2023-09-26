@@ -1,6 +1,7 @@
 #include "lists.h"
 /**
  * add_nodeint_end - will add  a node to the end of a list
+ * @head: this is the pointer to the head of the list
  * @n: the data to the pointer that will be pointing to the head
  * of the list
  * Return: this addresses the element
