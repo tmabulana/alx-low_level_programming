@@ -1,5 +1,7 @@
 #ifndef LISTS_H
 #define LISTS_H
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * struct listint_s - this is a self referencial struct for
  *  creating nodes of a singly linked list
@@ -7,8 +9,6 @@
  *  @next: the self referencial pointer
  *  to the next node of a list
  */
-#include <stdio.h>
-#include <stdlib.h>
 typedef struct listint_s
 {
 int n;
