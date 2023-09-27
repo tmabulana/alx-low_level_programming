@@ -5,7 +5,7 @@
 #include <string.h>
 /**
  * struct list_s - the singly linked list
- * @str (malloced atring)
+ * @str: (malloced atring)
  * @len: the lenght of the stipulated string
  * @next: the pointer to the next code
  */
