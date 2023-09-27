@@ -6,4 +6,4 @@ xor eax, eax
 call printf
 mov  eax, 0
 ret
-format: db 'Hello, Holberon', 0
+format: db 'Hello, Holberon\n', 0
